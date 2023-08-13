@@ -1,0 +1,19 @@
+{
+  "name": "epresstut",
+  "version": "1.0.0",
+  "description": "This contains all my learnings of express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekpathakgit/ExpressTut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekpathakgit/ExpressTut/issues"
+  },
+  "homepage": "https://github.com/vivekpathakgit/ExpressTut#readme"
+}
