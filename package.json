@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vivekpathakgit/ExpressTut/issues"
   },
-  "homepage": "https://github.com/vivekpathakgit/ExpressTut#readme"
+  "homepage": "https://github.com/vivekpathakgit/ExpressTut#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
